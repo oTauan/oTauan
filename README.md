@@ -38,7 +38,11 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oTauan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTauan&layout=compact&langs_count=7&theme=dracula"/>
- >![Snake animation](https://github.com/igor93araujo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
