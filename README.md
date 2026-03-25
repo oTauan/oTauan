@@ -1,108 +1,179 @@
-# Olá 👋, eu sou o Tauan Pereira
-
+# 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&width=500&lines=Desenvolvedor+de+Dados;Engenheiro+de+ETL;Python+%7C+Airflow;Estudante+UFRN" alt="Typing SVG" />
-</div>
+  
+  <!-- Título animado -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=32&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=100&lines=👋+Tauan+Pereira;Desenvolvedor+de+Dados;Python+•+Airflow+•+ETL;Engenheiro+de+Pipelines" alt="Tauan Pereira" />
 
----
-
-## 👨‍💻 Sobre Mim
-
-Auxiliar de TI na **UFRN** | Estudante de Ciência e Tecnologia | Desenvolvedor de Dados em formação
-
-Sou um profissional em transição para a área de **Engenharia de Dados**, com foco em pipelines ETL, orquestração de workflows e processamento de dados em larga escala. Apaixonado por criar soluções robustas e escaláveis usando Python e Airflow.
-
-- 🎓 **Estudante**: Ciência e Tecnologia @ UFRN
-- 🔧 **Atualmente**: Auxiliar de TI com foco em Desenvolvimento de Dados
-- 🎯 **Especialização**: Pipelines ETL | Airflow | Python
-- 📫 **Email**: [tauandev301@gmail.com](mailto:tauandev301@gmail.com)
-- 💬 **Pronomes**: He/Him
-- 📍 **Localização**: Natal, RN
-
----
-
-## 🛠️ Tech Stack
-
-<div align="left">
-  <table>
-    <tr>
-      <td><strong>Foco Principal</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" title="Python"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="airflow" width="35" height="35" title="Apache Airflow"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35" title="PostgreSQL"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Ferramentas & Plataformas</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35" title="Git"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" title="Docker"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35" title="Linux"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Complementares</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35" title="Java (Básico)"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="35" height="35" title="Spring Boot"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=oTauan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTauan&layout=compact&langs_count=8&theme=dracula&hide=java"/>
-</div>
-
----
-
-## 🚀 Áreas de Interesse
-
-- 🔄 **Orquestração de Workflows** - Apache Airflow, Prefect
-- 📦 **Pipelines ETL** - Extração, transformação e carga de dados
-- 🗄️ **Modelagem de Dados** - Data warehousing, data lakes
-- 📈 **Processamento de Dados** - Pandas, PySpark
-- 🔍 **Data Quality** - Validação e monitoramento de dados
-- ☁️ **Cloud Platforms** - AWS, GCP, Azure
-
----
-
-## 💡 Valores
-
-> *Simplicidade na complexidade. Código limpo, documentação clara e pipelines confiáveis.*
-
-Acredito que um bom engenheiro de dados não é apenas alguém que escreve código, mas alguém que constrói **sistemas resilientes, monitoráveis e fáceis de manter**.
-
----
-
-## 🔗 Conecte-se comigo
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/tauan-pereira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://github.com/oTauan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="mailto:tauandev301@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/>
-  </a>
+  <!-- Linha decorativa -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt=""/>
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oTauan&theme=dracula&hide_border=true&area=true" width="100%" alt="activity graph"/>
+  
+  ### 📍 UFRN | Natal, RN • 💼 Auxiliar de TI • 🎓 Estudante de Ciência e Tecnologia
+  
 </div>
 
 ---
 
 <div align="center">
-  <em>⭐ Sempre aprendendo, sempre evoluindo.</em>
+  
+  ## 🎯 Sobre Mim
+  
+</div>
+
+<p align="center">
+  Sou um profissional apaixonado por <strong>Engenharia de Dados</strong>, especializado em construir pipelines ETL robustos e escaláveis. 
+  
+  Trabalho com **Python**, **Airflow** e **SQL** para transformar dados brutos em insights valiosos.
+  
+  Atualmente explorando a intersecção entre DevOps e Data Engineering 🚀
+</p>
+
+<div align="center">
+  
+  | 👤 | Detalhe |
+  |:---|:---|
+  | 📧 | [tauandev301@gmail.com](mailto:tauandev301@gmail.com) |
+  | 🎭 | He/Him |
+  | 🌍 | Open to collaborate & learn |
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🛠️ Tech Stack
+  
+</div>
+
+<div align="center">
+  
+  ### Core (Dados)
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/color/96/000000/apache.png" alt="airflow" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="50" height="50" style="margin: 10px;"/>
+  
+  <br/>
+  
+  ### Ferramentas
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50" style="margin: 10px;"/>
+  
+  <br/>
+  
+  ### Complementares
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" style="margin: 10px; opacity: 0.7;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45" style="margin: 10px; opacity: 0.7;"/>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🐍 Pacman - Meus Commits
+  
+</div>
+
+<div align="center">
+  
+  [![Pacman Game - GitHub Commits](https://github.com/oTauan/oTauan/blob/output/github-contribution-grid-snake.svg)](https://github.com/oTauan)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 📊 GitHub Analytics
+  
+</div>
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oTauan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  
+</div>
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTauan&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide=java"/>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🚀 Áreas de Foco
+  
+</div>
+
+<div align="center">
+  
+  ```
+  🔄 Orquestração       →    Apache Airflow, Prefect
+  📦 Pipelines ETL     →    Extração, Transformação, Carga
+  🗄️  Modelagem Dados   →    Data Warehousing, Data Lakes
+  📈 Processamento     →    Pandas, PySpark, Polars
+  🔍 Data Quality      →    Validação, Monitoramento
+  ☁️  Cloud Stack       →    AWS, GCP, Azure
+  ```
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 📈 Atividade no GitHub
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oTauan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=00D9FF&area=true&radius=15" alt="GitHub Activity Graph" width="100%"/>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🤝 Conecte-se Comigo
+  
+</div>
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauan-pereira/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oTauan)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tauandev301@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 Filosofia
+  
+  > *"Código limpo, pipelines robustos e dados confiáveis. A verdadeira arte está na simplicitade."*
+  
+  ---
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="1" alt=""/>
+  
+  <img src="https://komarev.com/ghpvc/?username=oTauan&style=flat-square&color=9D4EDD" alt="Profile Views"/>
+  
 </div>
