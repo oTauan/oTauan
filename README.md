@@ -1,6 +1,6 @@
 # Tauan Pereira
 
-**Desenvolvedor de Dados** | Analista de T.I | UFRN
+**Desenvolvedor de Dados** | Analista de T.I JR| UFRN
 ```
 Transformando dados em insights através de ETLs e pipelines robustos.
 ```
