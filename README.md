@@ -27,42 +27,24 @@ Transformando dados em insights através de ETLs e pipelines robustos.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TauanPereira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff)](https://github.com/TauanPereira)
 
----
-
-## 🕹️ Jogar Pac-Man
-
-**[→ Clique aqui para jogar ←](https://pacman.jotademorais.com)**
-```
-Use SETAS ou WASD para se mover
-Coma os pontinhos e evite os fantasmas! 👾
-```
-
----
 
 ## 💼 Experiência
 
-**Analista de T.I** | Desenvolvedor de Dados
+**Analista de T.I JR** | 
 
 - Pipelines ETL com Python e Airflow
-- Automação de dados em larga escala
+- Automação de dados 
 - Transformação e integração de dados
+- n8n
 
 ---
 
 ## 🎓 Formação
 
-- 📚 **Ciência e Tecnologia** - UFRN
-- 🎯 **Engenharia de Dados** - ETLs e Pipelines
+- 📚 **Ciência e Tecnologia** - UFRN - em andamento
+- 🎯 **Engenharia de Dados** - ETLs e Pipelines - Estudos pessoais
 
----
 
-## 🔗 Conecte-se
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tauan-pereira)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TauanPereira)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@example.com)
-
----
 
 <div align="center">
 
